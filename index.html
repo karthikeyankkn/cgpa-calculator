@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>GK Cgpa Calculator</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- css liblary files -->
+	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
+</head>
+<body class="bg-dark">
+	<div class="container-fluid">
+		<!-- home screen code starts -->
+		<div id="home">
+			<div class="d-flex align-items-center justify-content-around body_height">
+				<button type="button" class="btn btn-success" id="gpa">GPA</button>
+				<button type="button" class="btn btn-danger" id="cgpa">CGPA</button>
+			</div>
+		</div>
+		<!-- home screen code end -->
+
+		<!-- category screen code starts -->
+		<div id="category" class="mt-5">
+			<div class="d-flex flex-row justify-content-center">
+				 <div class="d-flex flex-column">
+					<div class="form-group">
+					  <select class="form-control" id="department">
+					  	<option disabled selected>Select Department</option>
+					    <option>CSE</option>
+					    <option>IT</option>
+					    <option>EEE</option>
+					    <option>ECE</option>
+					    <option>CIVIL</option>
+					    <option>MECHANICAL ENGINEERING</option>
+					    <option>E&I</option>
+					  </select>
+					</div>
+				</div>
+			</div>
+			<div class="d-flex flex-row justify-content-center">
+				<div class="d-flex flex-column">
+					<div class="form-group">
+						<select class="form-control" id="gpa_semester">
+							<option disabled selected>Select Semester</option>
+							<option>1</option>
+							<option>2</option>
+							<option>3</option>
+							<option>4</option>
+							<option>5</option>
+							<option>6</option>
+							<option>7</option>
+							<option>8</option>
+						</select>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- category screen code end -->
+
+		<!-- Evaluation screen code starts -->
+		<div class="my-5" id="evaluation">
+			<div class="d-flex flex-row justify-content-center">
+				<div class="d-flex flex-column w-100">
+					<ul class="list-group list-group-flush" id="gpa_container">
+					  
+					</ul>
+				</div>
+			</div>
+			<div class="d-flex flex-row justify-content-center">
+				<div class="d-flex flex-column">
+					<button type="button" class="btn btn-success" id="gpa_calculate">Calculate</button>
+				</div>
+			</div>
+		</div>
+		<!-- Evaluation screen code end -->
+
+		<!-- Result screen code starts -->
+		<div class="mt-5" id="result">
+			<div class="d-flex flex-row justify-content-center">
+				<!-- <h3>Congratulations..!!!</h3> -->
+				<label class="text-light f-32px" id="gpa_result_value" > </label>
+				<b class="pl-2 text-success f-32px">GPA</b>
+			</div>
+		</div>		
+		<!-- Result screen code end -->
+	</div>
+
+	<!-- <table class="table table-dark table-striped">
+		<thead>
+			<tr>
+				<th>Sem No</th>
+				<th>Subject Code</th>
+				<th>Subject Name</th>
+				<th>Credits</th>
+				<th>Category</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				
+			</tr>
+		</tbody>
+	</table> -->
+
+	<!-- js liblary files -->
+	<script type="text/javascript" src="assets/js/jquery.min.js"></script>
+	<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="assets/js/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+.body_height{
+	height: -webkit-fill-available;
+}
+#evaluation, #result, #category{
+	display: none;
+}
+.f-32px{
+	font-size: 32px;
+}

@@ -1,0 +1,233 @@
+[
+ {
+   "subjectName": "communicative english",
+   "subjectCode": "hs8151",
+   "credits": 4,
+   "catagory": "hs",
+   "semesterNumber": 1
+ },
+ {
+   "subjectName": "engineering mathematics",
+   "subjectCode": "ma8151",
+   "credits": 4,
+   "catagory": "bs",
+   "semesterNumber": 1
+ },
+ {
+   "subjectName": "engineering physics",
+   "subjectCode": "ph8151",
+   "credits": 3,
+   "catagory": "bs",
+   "semesterNumber": 1
+ },
+ {
+   "subjectName": "engineering chemistry",
+   "subjectCode": "cy8151",
+   "credits": 3,
+   "catagory": "bs",
+   "semesterNumber": 1
+ },
+ {
+   "subjectName": "problem solving and python programming",
+   "subjectCode": "ge8151",
+   "credits": 3,
+   "catagory": "es",
+   "semesterNumber": 1
+ },
+ {
+   "subjectName": "engineering graphics",
+   "subjectCode": "ge8152",
+   "credits": 4,
+   "catagory": "es",
+   "semesterNumber": 1
+ },
+ {
+   "subjectName": "problem solving and python programming laboratory",
+   "subjectCode": "ge8161",
+   "credits": 2,
+   "catagory": "es",
+   "semesterNumber": 1
+ },
+ {
+   "subjectName": "physics and chemistry laboratory",
+   "subjectCode": "bs8161",
+   "credits": 2,
+   "catagory": "bs",
+   "semesterNumber": 1
+ },
+ {
+   "subjectName": "technical english",
+   "subjectCode": "hs8251",
+   "credits": 4,
+   "catagory": "hs",
+   "semesterNumber": 2
+ },
+ {
+   "subjectName": "engineering mathematics 2",
+   "subjectCode": "ma8251",
+   "credits": 4,
+   "catagory": "bs",
+   "semesterNumber": 2
+ },
+ {
+   "subjectName": "physics for electrinics engineering",
+   "subjectCode": "ph8253",
+   "credits": 3,
+   "catagory": "bs",
+   "semesterNumber": 2
+ },
+ {
+   "subjectName": "basic civil and mechanical engineering",
+   "subjectCode": "be8252",
+   "credits": 4,
+   "catagory": "es",
+   "semesterNumber": 2
+ },
+ {
+   "subjectName": "circuit theory",
+   "subjectCode": "ee8251",
+   "credits": 4,
+   "catagory": "pc",
+   "semesterNumber": 2
+ },
+ {
+   "subjectName": "environmental science and engineering",
+   "subjectCode": "ge8291",
+   "credits": 3,
+   "catagory": "hs",
+   "semesterNumber": 2
+ },
+ {
+   "subjectName": "engineering practices laboratory",
+   "subjectCode": "ge8261",
+   "credits": 2,
+   "catagory": "es",
+   "semesterNumber": 2
+ },
+ {
+   "subjectName": "electric circuits laboratory",
+   "subjectCode": "ee8261",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 2
+ },
+ {
+   "subjectName": "transforms and partial differential eauations",
+   "subjectCode": "ma8353",
+   "credits": 4,
+   "catagory": "bs",
+   "semesterNumber": 3
+ },
+ {
+   "subjectName": "digital logic circuits",
+   "subjectCode": "ee8351",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 3
+ },
+ {
+   "subjectName": "electromagnetic theory",
+   "subjectCode": "ee8391",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 3
+ },
+ {
+   "subjectName": "electrical machines 1",
+   "subjectCode": "ee8301",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 3
+ },
+ {
+   "subjectName": "electron devices and circuits",
+   "subjectCode": "ec8353",
+   "credits": 3,
+   "catagory": "es",
+   "semesterNumber": 3
+ },
+ {
+   "subjectName": "power plant engineering",
+   "subjectCode": "me8792",
+   "credits": 3,
+   "catagory": "es",
+   "semesterNumber": 3
+ },
+ {
+   "subjectName": "electronics laboratory 1",
+   "subjectCode": "ee8311",
+   "credits": 2,
+   "catagory": "es",
+   "semesterNumber": 3
+ },
+ {
+   "subjectName": "electrical machines laboratory 1",
+   "subjectCode": "ee8311",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 3
+ },
+ {
+   "subjectName": "numerical methods",
+   "subjectCode": "ma8491",
+   "credits": 4,
+   "catagory": "bs",
+   "semesterNumber": 4
+ },
+ {
+   "subjectName": "electrical machines 2",
+   "subjectCode": "ee8401",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 4
+ },
+ {
+   "subjectName": "transmission and distribution",
+   "subjectCode": "ee8402",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 4
+ },
+ {
+   "subjectName": "measurements and instrumentation",
+   "subjectCode": "ee8403",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 4
+ },
+ {
+   "subjectName": "linear integrated circuits and applications",
+   "subjectCode": "ee8451",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 4
+ },
+ {
+   "subjectName": "control systems",
+   "subjectCode": "ic8451",
+   "credits": 4,
+   "catagory": "pc",
+   "semesterNumber": 4
+ },
+ {
+   "subjectName": "electrical machines laboratory 2",
+   "subjectCode": "ee8411",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 4
+ },
+ {
+   "subjectName": "linear and digital integrated circuits laboratory",
+   "subjectCode": "ee8461",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 4
+ },
+ {
+   "subjectName": "techinal seminar",
+   "subjectCode": "ee8412",
+   "credits": 1,
+   "catagory": "eec",
+   "semesterNumber": 4
+ }
+]
