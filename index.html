@@ -9,10 +9,10 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
 </head>
 <body class="bg-dark">
-	<div class="container-fluid">
+	<div class="container-fluid pb-5">
 		<!-- home screen code starts -->
-		<div id="home">
-			<div class="d-flex align-items-center justify-content-around body_height">
+		<div id="home" class="mt-5">
+			<div class="d-flex align-items-center justify-content-around">
 				<button type="button" class="btn btn-success" id="gpa">GPA</button>
 				<button type="button" class="btn btn-danger" id="cgpa">CGPA</button>
 			</div>
@@ -26,13 +26,13 @@
 					<div class="form-group">
 					  <select class="form-control" id="department">
 					  	<option disabled selected>Select Department</option>
-					    <option>CSE</option>
-					    <option>IT</option>
-					    <option>EEE</option>
-					    <option>ECE</option>
-					    <option>CIVIL</option>
-					    <option>MECHANICAL ENGINEERING</option>
-					    <option>E&I</option>
+					    <option value="cse">CSE</option>
+					    <option value="it">IT</option>
+					    <option value="eee">EEE</option>
+					    <option value="ece">ECE</option>
+					    <option value="civil">CIVIL</option>
+					    <option value="mech">MECHANICAL ENGINEERING</option>
+					    <option class="eandi">E&I</option>
 					  </select>
 					</div>
 				</div>
@@ -54,23 +54,28 @@
 					</div>
 				</div>
 			</div>
+			<!-- <div class="d-flex fixed-bottom">
+				<button type="button" class="btn btn-danger w-50 btn-lg rounded-0 go_to_home">Back</button>
+				<button type="button" class="btn btn-info w-50 btn-lg rounded-0 go_to_home">Home</button>
+			</div> -->
 		</div>
 		<!-- category screen code end -->
 
 		<!-- Evaluation screen code starts -->
 		<div class="my-5" id="evaluation">
 			<div class="d-flex flex-row justify-content-center">
-				<div class="d-flex flex-column w-100">
-					<ul class="list-group list-group-flush" id="gpa_container">
-					  
-					</ul>
+				<div class="d-flex flex-column w-100 text-center gpa_container" id="gpa_container">
 				</div>
 			</div>
-			<div class="d-flex flex-row justify-content-center">
+			<div class="d-flex flex-row justify-content-center mt-3">
 				<div class="d-flex flex-column">
 					<button type="button" class="btn btn-success" id="gpa_calculate">Calculate</button>
 				</div>
 			</div>
+			<!-- <div class="d-flex fixed-bottom">
+				<button type="button" class="btn btn-danger w-50 btn-lg rounded-0 go_to_category">Back</button>
+				<button type="button" class="btn btn-info w-50 btn-lg rounded-0 go_to_home">Home</button>
+			</div> -->
 		</div>
 		<!-- Evaluation screen code end -->
 
@@ -80,6 +85,7 @@
 				<!-- <h3>Congratulations..!!!</h3> -->
 				<label class="text-light f-32px" id="gpa_result_value" > </label>
 				<b class="pl-2 text-success f-32px">GPA</b>
+				<a href="" class="btn btn-info d-block mt-3">Home</a>
 			</div>
 		</div>		
 		<!-- Result screen code end -->

@@ -4,230 +4,1503 @@
    "subjectCode": "hs8151",
    "credits": 4,
    "catagory": "hs",
-   "semesterNumber": 1
+   "semesterNumber": 1,
+   "department": "eee"
  },
  {
-   "subjectName": "engineering mathematics",
+   "subjectName": "engineering mathematics 1",
    "subjectCode": "ma8151",
    "credits": 4,
    "catagory": "bs",
-   "semesterNumber": 1
+   "semesterNumber": 1,
+   "department": "eee"
  },
  {
    "subjectName": "engineering physics",
    "subjectCode": "ph8151",
    "credits": 3,
    "catagory": "bs",
-   "semesterNumber": 1
+   "semesterNumber": 1,
+   "department": "eee"
  },
  {
    "subjectName": "engineering chemistry",
    "subjectCode": "cy8151",
    "credits": 3,
    "catagory": "bs",
-   "semesterNumber": 1
+   "semesterNumber": 1,
+   "department": "eee"
  },
  {
    "subjectName": "problem solving and python programming",
    "subjectCode": "ge8151",
    "credits": 3,
    "catagory": "es",
-   "semesterNumber": 1
+   "semesterNumber": 1,
+   "department": "eee"
  },
  {
    "subjectName": "engineering graphics",
    "subjectCode": "ge8152",
    "credits": 4,
    "catagory": "es",
-   "semesterNumber": 1
+   "semesterNumber": 1,
+   "department": "eee"
  },
  {
    "subjectName": "problem solving and python programming laboratory",
    "subjectCode": "ge8161",
    "credits": 2,
    "catagory": "es",
-   "semesterNumber": 1
+   "semesterNumber": 1,
+   "department": "eee"
  },
  {
    "subjectName": "physics and chemistry laboratory",
    "subjectCode": "bs8161",
    "credits": 2,
    "catagory": "bs",
-   "semesterNumber": 1
+   "semesterNumber": 1,
+   "department": "eee"
  },
  {
    "subjectName": "technical english",
    "subjectCode": "hs8251",
    "credits": 4,
    "catagory": "hs",
-   "semesterNumber": 2
+   "semesterNumber": 2,
+   "department": "eee"
  },
  {
    "subjectName": "engineering mathematics 2",
    "subjectCode": "ma8251",
    "credits": 4,
    "catagory": "bs",
-   "semesterNumber": 2
+   "semesterNumber": 2,
+   "department": "eee"
  },
  {
-   "subjectName": "physics for electrinics engineering",
+   "subjectName": "physics for electronics engineering",
    "subjectCode": "ph8253",
    "credits": 3,
    "catagory": "bs",
-   "semesterNumber": 2
+   "semesterNumber": 2,
+   "department": "eee"
  },
  {
    "subjectName": "basic civil and mechanical engineering",
    "subjectCode": "be8252",
    "credits": 4,
    "catagory": "es",
-   "semesterNumber": 2
+   "semesterNumber": 2,
+   "department": "eee"
  },
  {
    "subjectName": "circuit theory",
    "subjectCode": "ee8251",
    "credits": 4,
    "catagory": "pc",
-   "semesterNumber": 2
+   "semesterNumber": 2,
+   "department": "eee"
  },
  {
    "subjectName": "environmental science and engineering",
    "subjectCode": "ge8291",
    "credits": 3,
    "catagory": "hs",
-   "semesterNumber": 2
+   "semesterNumber": 2,
+   "department": "eee"
  },
  {
    "subjectName": "engineering practices laboratory",
    "subjectCode": "ge8261",
    "credits": 2,
    "catagory": "es",
-   "semesterNumber": 2
+   "semesterNumber": 2,
+   "department": "eee"
  },
  {
    "subjectName": "electric circuits laboratory",
    "subjectCode": "ee8261",
    "credits": 2,
    "catagory": "pc",
-   "semesterNumber": 2
+   "semesterNumber": 2,
+   "department": "eee"
  },
  {
    "subjectName": "transforms and partial differential eauations",
    "subjectCode": "ma8353",
    "credits": 4,
    "catagory": "bs",
-   "semesterNumber": 3
+   "semesterNumber": 3,
+   "department": "eee"
  },
  {
    "subjectName": "digital logic circuits",
    "subjectCode": "ee8351",
    "credits": 3,
    "catagory": "pc",
-   "semesterNumber": 3
+   "semesterNumber": 3,
+   "department": "eee"
  },
  {
    "subjectName": "electromagnetic theory",
    "subjectCode": "ee8391",
    "credits": 3,
    "catagory": "pc",
-   "semesterNumber": 3
+   "semesterNumber": 3,
+   "department": "eee"
  },
  {
    "subjectName": "electrical machines 1",
    "subjectCode": "ee8301",
    "credits": 3,
    "catagory": "pc",
-   "semesterNumber": 3
+   "semesterNumber": 3,
+   "department": "eee"
  },
  {
    "subjectName": "electron devices and circuits",
    "subjectCode": "ec8353",
    "credits": 3,
    "catagory": "es",
-   "semesterNumber": 3
+   "semesterNumber": 3,
+   "department": "eee"
  },
  {
    "subjectName": "power plant engineering",
    "subjectCode": "me8792",
    "credits": 3,
    "catagory": "es",
-   "semesterNumber": 3
+   "semesterNumber": 3,
+   "department": "eee"
  },
  {
    "subjectName": "electronics laboratory 1",
    "subjectCode": "ee8311",
    "credits": 2,
    "catagory": "es",
-   "semesterNumber": 3
+   "semesterNumber": 3,
+   "department": "eee"
  },
  {
    "subjectName": "electrical machines laboratory 1",
    "subjectCode": "ee8311",
    "credits": 2,
    "catagory": "pc",
-   "semesterNumber": 3
+   "semesterNumber": 3,
+   "department": "eee"
  },
  {
    "subjectName": "numerical methods",
    "subjectCode": "ma8491",
    "credits": 4,
    "catagory": "bs",
-   "semesterNumber": 4
+   "semesterNumber": 4,
+   "department": "eee"
  },
  {
    "subjectName": "electrical machines 2",
    "subjectCode": "ee8401",
    "credits": 3,
    "catagory": "pc",
-   "semesterNumber": 4
+   "semesterNumber": 4,
+   "department": "eee"
  },
  {
    "subjectName": "transmission and distribution",
    "subjectCode": "ee8402",
    "credits": 3,
    "catagory": "pc",
-   "semesterNumber": 4
+   "semesterNumber": 4,
+   "department": "eee"
  },
  {
    "subjectName": "measurements and instrumentation",
    "subjectCode": "ee8403",
    "credits": 3,
    "catagory": "pc",
-   "semesterNumber": 4
+   "semesterNumber": 4,
+   "department": "eee"
  },
  {
    "subjectName": "linear integrated circuits and applications",
    "subjectCode": "ee8451",
    "credits": 3,
    "catagory": "pc",
-   "semesterNumber": 4
+   "semesterNumber": 4,
+   "department": "eee"
  },
  {
    "subjectName": "control systems",
    "subjectCode": "ic8451",
    "credits": 4,
    "catagory": "pc",
-   "semesterNumber": 4
+   "semesterNumber": 4,
+   "department": "eee"
  },
  {
    "subjectName": "electrical machines laboratory 2",
    "subjectCode": "ee8411",
    "credits": 2,
    "catagory": "pc",
-   "semesterNumber": 4
+   "semesterNumber": 4,
+   "department": "eee"
  },
  {
    "subjectName": "linear and digital integrated circuits laboratory",
    "subjectCode": "ee8461",
    "credits": 2,
    "catagory": "pc",
-   "semesterNumber": 4
+   "semesterNumber": 4,
+   "department": "eee"
  },
  {
-   "subjectName": "techinal seminar",
+   "subjectName": "technical seminar",
    "subjectCode": "ee8412",
    "credits": 1,
    "catagory": "eec",
-   "semesterNumber": 4
+   "semesterNumber": 4,
+   "department": "eee"
+ },
+ {
+   "subjectName": "power system analysis",
+   "subjectCode": "ee8501",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "eee"
+ },
+ {
+   "subjectName": "microprocessors and microcontrollers",
+   "subjectCode": "ee8551",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "eee"
+ },
+ {
+   "subjectName": "power electronics",
+   "subjectCode": "ee8552",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "eee"
+ },
+ {
+   "subjectName": "digital signal processing",
+   "subjectCode": "ee8591",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "eee"
+ },
+ {
+   "subjectName": "object oriented programming",
+   "subjectCode": "cs8392",
+   "credits": 3,
+   "catagory": "es",
+   "semesterNumber": 5,
+   "department": "eee"
+ },
+ {
+   "subjectName": "open elective 1",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "oe",
+   "semesterNumber": 5,
+   "department": "eee"
+ },
+ {
+   "subjectName": "control and instrumentation laboratory",
+   "subjectCode": "ee8511",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "eee"
+ },
+ {
+   "subjectName": "professional communication",
+   "subjectCode": "hs8581",
+   "credits": 1,
+   "catagory": "eec",
+   "semesterNumber": 5,
+   "department": "eee"
+ },
+ {
+   "subjectName": "object oriented programming laboratory",
+   "subjectCode": "cs8383",
+   "credits": 2,
+   "catagory": "es",
+   "semesterNumber": 5,
+   "department": "eee"
+ },
+ {
+   "subjectName": "solid state drives",
+   "subjectCode": "ee8601",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "eee"
+ },
+ {
+   "subjectName": "protection and switchgear",
+   "subjectCode": "ee8602",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "eee"
+ },
+ {
+   "subjectName": "embedded systems",
+   "subjectCode": "ee8691",
+   "credits": 3,
+   "catagory": "es",
+   "semesterNumber": 6,
+   "department": "eee"
+ },
+ {
+   "subjectName": "professional elective 1",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "pe",
+   "semesterNumber": 6,
+   "department": "eee"
+ },
+ {
+   "subjectName": "professional elective 2",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "pe",
+   "semesterNumber": 6,
+   "department": "eee"
+ },
+ {
+   "subjectName": "power electronics and drives laboratory",
+   "subjectCode": "ee8661",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "eee"
+ },
+ {
+   "subjectName": "microprocessors and microcontrollers laboratory",
+   "subjectCode": "ee8681",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "eee"
+ },
+ {
+   "subjectName": "mini project",
+   "subjectCode": "ee8611",
+   "credits": 2,
+   "catagory": "eec",
+   "semesterNumber": 6,
+   "department": "eee"
+ },
+ {
+   "subjectName": "high voltage engineering",
+   "subjectCode": "ee8701",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 7,
+   "department": "eee"
+ },
+ {
+   "subjectName": "power system operation and control",
+   "subjectCode": "ee8702",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 7,
+   "department": "eee"
+ },
+ {
+   "subjectName": "renewable energy systems",
+   "subjectCode": "ee8703",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 7,
+   "department": "eee"
+ },
+ {
+   "subjectName": "open elective 2",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "oe",
+   "semesterNumber": 7,
+   "department": "eee"
+ },
+ {
+   "subjectName": "professional elective 3",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "pe",
+   "semesterNumber": 7,
+   "department": "eee"
+ },
+ {
+   "subjectName": "professional elective 4",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "pe",
+   "semesterNumber": 7,
+   "department": "eee"
+ },
+ {
+   "subjectName": "power system simulation laboraotry",
+   "subjectCode": "ee8711",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 7,
+   "department": "eee"
+ },
+ {
+   "subjectName": "renewable energy systems laboratory",
+   "subjectCode": "ee8712",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 7,
+   "department": "eee"
+ },
+ {
+   "subjectName": "professional elective 5",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "pe",
+   "semesterNumber": 8,
+   "department": "eee"
+ },
+ {
+   "subjectName": "professional elective 6",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "pe",
+   "semesterNumber": 8,
+   "department": "eee"
+ },
+ {
+   "subjectName": "project work",
+   "subjectCode": "ee8811",
+   "credits": 10,
+   "catagory": "pe",
+   "semesterNumber": 8,
+   "department": "eee"
+ },
+ {
+   "subjectName": "communicative english",
+   "subjectCode": "hs8151",
+   "credits": 4,
+   "catagory": "hs",
+   "semesterNumber": 1,
+   "department": "eee"
+ },
+ {
+   "subjectName": "engineering mathematics 1",
+   "subjectCode": "ma8151",
+   "credits": 4,
+   "catagory": "bs",
+   "semesterNumber": 1,
+   "department": "eee"
+ },
+ {
+   "subjectName": "engineering physics",
+   "subjectCode": "ph8151",
+   "credits": 3,
+   "catagory": "bs",
+   "semesterNumber": 1,
+   "department": "cse"
+ },
+ {
+   "subjectName": "engineering chemistry",
+   "subjectCode": "cy8151",
+   "credits": 3,
+   "catagory": "bs",
+   "semesterNumber": 1,
+   "department": "cse"
+ },
+ {
+   "subjectName": "problem solving and python programming",
+   "subjectCode": "ge8151",
+   "credits": 3,
+   "catagory": "es",
+   "semesterNumber": 1,
+   "department": "cse"
+ },
+ {
+   "subjectName": "engineering graphics",
+   "subjectCode": "ge8152",
+   "credits": 4,
+   "catagory": "es",
+   "semesterNumber": 1,
+   "department": "cse"
+ },
+ {
+   "subjectName": "problem solving and python programming laboratory",
+   "subjectCode": "ge8161",
+   "credits": 2,
+   "catagory": "es",
+   "semesterNumber": 1,
+   "department": "cse"
+ },
+ {
+   "subjectName": "physics and chemistry laboratory",
+   "subjectCode": "bs8161",
+   "credits": 2,
+   "catagory": "bs",
+   "semesterNumber": 1,
+   "department": "cse"
+ },
+ {
+   "subjectName": "technical english",
+   "subjectCode": "hs8251",
+   "credits": 4,
+   "catagory": "hs",
+   "semesterNumber": 2,
+   "department": "cse"
+ },
+ {
+   "subjectName": "engineering mathematics 2",
+   "subjectCode": "ma8251",
+   "credits": 4,
+   "catagory": "bs",
+   "semesterNumber": 2,
+   "department": "cse"
+ },
+ {
+   "subjectName": "basic electrical and electronics and measurement engineering",
+   "subjectCode": "be8255",
+   "credits": 3,
+   "catagory": "es",
+   "semesterNumber": 2,
+   "department": "cse"
+ },
+ {
+   "subjectName": "physics for information science",
+   "subjectCode": "ph8252",
+   "credits": 3,
+   "catagory": "bs",
+   "semesterNumber": 2,
+   "department": "cse"
+ },
+ {
+   "subjectName": "environmental science and engineering",
+   "subjectCode": "ge8291",
+   "credits": 3,
+   "catagory": "hs",
+   "semesterNumber": 2,
+   "department": "cse"
+ },
+ {
+   "subjectName": "programming in c",
+   "subjectCode": "cs8251",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 2,
+   "department": "cse"
+ },
+ {
+   "subjectName": "engineering practices laboratory",
+   "subjectCode": "ge8261",
+   "credits": 2,
+   "catagory": "es",
+   "semesterNumber": 2,
+   "department": "cse"
+ },
+ {
+   "subjectName": "c programming laboratory",
+   "subjectCode": "cs8261",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 2,
+   "department": "cse"
+ },
+ {
+   "subjectName": "discrete mathematics",
+   "subjectCode": "ma8351",
+   "credits": 4,
+   "catagory": "bs",
+   "semesterNumber": 3,
+   "department": "cse"
+ },
+ {
+   "subjectName": "digital principles and system design",
+   "subjectCode": "cs8351",
+   "credits": 4,
+   "catagory": "es",
+   "semesterNumber": 3,
+   "department": "cse"
+ },
+ {
+   "subjectName": "data structures",
+   "subjectCode": "cs8391",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 3,
+   "department": "cse"
+ },
+ {
+   "subjectName": "object oriented programming",
+   "subjectCode": "cs8392",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 3,
+   "department": "cse"
+ },
+ {
+   "subjectName": "communication engineering",
+   "subjectCode": "ec8395",
+   "credits": 3,
+   "catagory": "es",
+   "semesterNumber": 3,
+   "department": "cse"
+ },
+ {
+   "subjectName": "data structures laboratory",
+   "subjectCode": "cs8381",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 3,
+   "department": "cse"
+ },
+ {
+   "subjectName": "object oriented programming laboratory",
+   "subjectCode": "cs8383",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 3,
+   "department": "cse"
+ },
+ {
+   "subjectName": "digital systems laboratory",
+   "subjectCode": "cs8382",
+   "credits": 2,
+   "catagory": "es",
+   "semesterNumber": 3,
+   "department": "cse"
+ },
+ {
+   "subjectName": "interpersonal skills listening & speaking",
+   "subjectCode": "hs8381",
+   "credits": 1,
+   "catagory": "eec",
+   "semesterNumber": 3,
+   "department": "cse"
+ },
+ {
+   "subjectName": "probability and queueing theory",
+   "subjectCode": "ma8402",
+   "credits": 4,
+   "catagory": "bs",
+   "semesterNumber": 4,
+   "department": "cse"
+ },
+ {
+   "subjectName": "computer architecture",
+   "subjectCode": "cs8491",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 4,
+   "department": "cse"
+ },
+ {
+   "subjectName": "database management systems",
+   "subjectCode": "cs8492",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 4,
+   "department": "cse"
+ },
+ {
+   "subjectName": "design and analysis of algorithims",
+   "subjectCode": "cs8451",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 4,
+   "department": "cse"
+ },
+ {
+   "subjectName": "operating systems",
+   "subjectCode": "cs8493",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 4,
+   "department": "cse"
+ },
+ {
+   "subjectName": "software engineering",
+   "subjectCode": "cs8494",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 4,
+   "department": "cse"
+ },
+ {
+   "subjectName": "database management systems laboratory",
+   "subjectCode": "cs8484",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 4,
+   "department": "cse"
+ },
+ {
+   "subjectName": "operating systems laboratory",
+   "subjectCode": "cs8461",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 4,
+   "department": "cse"
+ },
+ {
+   "subjectName": "advanced reading and writing",
+   "subjectCode": "hs8461",
+   "credits": 1,
+   "catagory": "eec",
+   "semesterNumber": 4,
+   "department": "cse"
+ },
+ {
+   "subjectName": "algebra and number theory",
+   "subjectCode": "ma8551",
+   "credits": 4,
+   "catagory": "bs",
+   "semesterNumber": 5,
+   "department": "cse"
+ },
+ {
+   "subjectName": "computer networks",
+   "subjectCode": "cs8591",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "cse"
+ },
+ {
+   "subjectName": "microprocessors and microcontrollers",
+   "subjectCode": "ec8691",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "cse"
+ },
+ {
+   "subjectName": "theory of computation",
+   "subjectCode": "cs8501",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "cse"
+ },
+ {
+   "subjectName": "object oriented analysis and design",
+   "subjectCode": "cs8592",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "cse"
+ },
+ {
+   "subjectName": "open elective 1",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "oe",
+   "semesterNumber": 5,
+   "department": "cse"
+ },
+ {
+   "subjectName": "microprocessors and microcontrollers laboratory",
+   "subjectCode": "ec8681",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "cse"
+ },
+ {
+   "subjectName": "object oriented analysis and design laboratory",
+   "subjectCode": "cs8582",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "cse"
+ },
+ {
+   "subjectName": "networks laboratory",
+   "subjectCode": "cs8581",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "cse"
+ },
+ {
+   "subjectName": "internet programming",
+   "subjectCode": "cs8651",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "cse"
+ },
+ {
+   "subjectName": "artificial intelligence",
+   "subjectCode": "cs8691",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "cse"
+ },
+ {
+   "subjectName": "mobile computing",
+   "subjectCode": "cs8601",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "cse"
+ },
+ {
+   "subjectName": "compiler design",
+   "subjectCode": "cs8602",
+   "credits": 4,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "cse"
+ },
+ {
+   "subjectName": "distributed systems",
+   "subjectCode": "cs8603",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "cse"
+ },
+ {
+   "subjectName": "internet programming laboratory",
+   "subjectCode": "cs8661",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "cse"
+ },
+ {
+   "subjectName": "mobile application development laboratory",
+   "subjectCode": "cs8662",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "cse"
+ },
+ {
+   "subjectName": "mini project",
+   "subjectCode": "cs8611",
+   "credits": 1,
+   "catagory": "eec",
+   "semesterNumber": 6,
+   "department": "cse"
+ },
+ {
+   "subjectName": "professional communication",
+   "subjectCode": "hs8581",
+   "credits": 1,
+   "catagory": "eec",
+   "semesterNumber": 6,
+   "department": "cse"
+ },
+ {
+   "subjectName": "professional elective 1",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "pe",
+   "semesterNumber": 6,
+   "department": "cse"
+ },
+ {
+   "subjectName": "principles of management",
+   "subjectCode": "mg8591",
+   "credits": 3,
+   "catagory": "hs",
+   "semesterNumber": 7,
+   "department": "cse"
+ },
+ {
+   "subjectName": "cryptography and network security",
+   "subjectCode": "cs8792",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 7,
+   "department": "cse"
+ },
+ {
+   "subjectName": "cloud computing",
+   "subjectCode": "cs8791",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 7,
+   "department": "cse"
+ },
+ {
+   "subjectName": "open elective 2",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 7,
+   "department": "cse"
+ },
+ {
+   "subjectName": "professional elective 2",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "pe",
+   "semesterNumber": 7,
+   "department": "cse"
+ },
+ {
+   "subjectName": "professional elective 3",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "pe",
+   "semesterNumber": 7,
+   "department": "cse"
+ },
+ {
+   "subjectName": "cloud computing laboratory",
+   "subjectCode": "cs8711",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 7,
+   "department": "cse"
+ },
+ {
+   "subjectName": "security laboratory",
+   "subjectCode": "it8761",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 7,
+   "department": "cse"
+ },
+ {
+   "subjectName": "professional elective 4",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "pe",
+   "semesterNumber": 8,
+   "department": "cse"
+ },
+ {
+   "subjectName": "professional elective 5",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "pe",
+   "semesterNumber": 8,
+   "department": "cse"
+ },
+ {
+   "subjectName": "project work",
+   "subjectCode": "",
+   "credits": 10,
+   "catagory": "eec",
+   "semesterNumber": 8,
+   "department": "cse"
+ },
+ {
+   "subjectName": "communicative english",
+   "subjectCode": "hs8151",
+   "credits": 4,
+   "catagory": "hs",
+   "semesterNumber": 1,
+   "department": "ece"
+ },
+ {
+   "subjectName": "engineering mathematics 1",
+   "subjectCode": "ma8151",
+   "credits": 4,
+   "catagory": "bs",
+   "semesterNumber": 1,
+   "department": "ece"
+ },
+ {
+   "subjectName": "engineering physics",
+   "subjectCode": "ph8151",
+   "credits": 3,
+   "catagory": "bs",
+   "semesterNumber": 1,
+   "department": "ece"
+ },
+ {
+   "subjectName": "engineering chemistry",
+   "subjectCode": "cy8151",
+   "credits": 3,
+   "catagory": "bs",
+   "semesterNumber": 1,
+   "department": "ece"
+ },
+ {
+   "subjectName": "problem solving and python programming",
+   "subjectCode": "ge8151",
+   "credits": 3,
+   "catagory": "es",
+   "semesterNumber": 1,
+   "department": "ece"
+ },
+ {
+   "subjectName": "engineering graphics",
+   "subjectCode": "ge8152",
+   "credits": 4,
+   "catagory": "es",
+   "semesterNumber": 1,
+   "department": "ece"
+ },
+ {
+   "subjectName": "problem solving and python programming laboratory",
+   "subjectCode": "ge8161",
+   "credits": 2,
+   "catagory": "es",
+   "semesterNumber": 1,
+   "department": "ece"
+ },
+ {
+   "subjectName": "physics and chemistry laboratory",
+   "subjectCode": "bs8161",
+   "credits": 2,
+   "catagory": "bs",
+   "semesterNumber": 1,
+   "department": "ece"
+ },
+ {
+   "subjectName": "technical english",
+   "subjectCode": "hs8251",
+   "credits": 4,
+   "catagory": "hs",
+   "semesterNumber": 2,
+   "department": "ece"
+ },
+ {
+   "subjectName": "engineering mathematics 2",
+   "subjectCode": "ma8251",
+   "credits": 4,
+   "catagory": "bs",
+   "semesterNumber": 2,
+   "department": "ece"
+ },
+ {
+   "subjectName": "physics for electronics engineering",
+   "subjectCode": "ph8253",
+   "credits": 3,
+   "catagory": "bs",
+   "semesterNumber": 2,
+   "department": "ece"
+ },
+ {
+   "subjectName": "basic electrical and instrumentation engineering",
+   "subjectCode": "be8253",
+   "credits": 3,
+   "catagory": "es",
+   "semesterNumber": 2,
+   "department": "ece"
+ },
+ {
+   "subjectName": "circuit analysis",
+   "subjectCode": "ec8251",
+   "credits": 4,
+   "catagory": "pc",
+   "semesterNumber": 2,
+   "department": "ece"
+ },
+ {
+   "subjectName": "electronics devices",
+   "subjectCode": "ec8252",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 2,
+   "department": "ece"
+ },
+ {
+   "subjectName": "circuits and devices laboratory",
+   "subjectCode": "ec8261",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 2,
+   "department": "ece"
+ },
+ {
+   "subjectName": "engineering practices laboratory",
+   "subjectCode": "ge8261",
+   "credits": 2,
+   "catagory": "es",
+   "semesterNumber": 2,
+   "department": "ece"
+ },
+ {
+   "subjectName": "linear algebra and partial differential equations",
+   "subjectCode": "ma8352",
+   "credits": 4,
+   "catagory": "bs",
+   "semesterNumber": 3,
+   "department": "ece"
+ },
+ {
+   "subjectName": "fundamentals of data structures in C",
+   "subjectCode": "ec8393",
+   "credits": 3,
+   "catagory": "es",
+   "semesterNumber": 3,
+   "department": "ece"
+ },
+ {
+   "subjectName": "electronic circuits 1",
+   "subjectCode": "ec8351",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 3,
+   "department": "ece"
+ },
+ {
+   "subjectName": "signals and systems",
+   "subjectCode": "ec8352",
+   "credits": 4,
+   "catagory": "pc",
+   "semesterNumber": 3,
+   "department": "ece"
+ },
+ {
+   "subjectName": "digital electronics ",
+   "subjectCode": "ec8392",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 3,
+   "department": "ece"
+ },
+ {
+   "subjectName": "control systems engineering",
+   "subjectCode": "ec8391",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 3,
+   "department": "ece"
+ },
+ {
+   "subjectName": "fundamentals of data structures in c laboratory",
+   "subjectCode": "ec8381",
+   "credits": 2,
+   "catagory": "es",
+   "semesterNumber": 3,
+   "department": "ece"
+ },
+ {
+   "subjectName": "analog and digital circuits laboratory",
+   "subjectCode": "ec8361",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 3,
+   "department": "ece"
+ },
+ {
+   "subjectName": "interpersonal skills listening & speaking",
+   "subjectCode": "hs8381",
+   "credits": 1,
+   "catagory": "eec",
+   "semesterNumber": 3,
+   "department": "ece"
+ },
+ {
+   "subjectName": "probability and random processes",
+   "subjectCode": "ma8451",
+   "credits": 4,
+   "catagory": "bs",
+   "semesterNumber": 4,
+   "department": "ece"
+ },
+ {
+   "subjectName": "electronic circuits 2",
+   "subjectCode": "ec8352",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 4,
+   "department": "ece"
+ },
+ {
+   "subjectName": "communication theory",
+   "subjectCode": "ec8491",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 4,
+   "department": "ece"
+ },
+ {
+   "subjectName": "electromagnetic fields",
+   "subjectCode": "ec8451",
+   "credits": 4,
+   "catagory": "pc",
+   "semesterNumber": 4,
+   "department": "ece"
+ },
+ {
+   "subjectName": "linear integrated circuits",
+   "subjectCode": "ec8453",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 4,
+   "department": "ece"
+ },
+ {
+   "subjectName": "environmental science and engineering",
+   "subjectCode": "ge8291",
+   "credits": 3,
+   "catagory": "hs",
+   "semesterNumber": 4,
+   "department": "ece"
+ },
+ {
+   "subjectName": "circuits design and simulation laboratory",
+   "subjectCode": "ec8461",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 4,
+   "department": "ece"
+ },
+ {
+   "subjectName": "linear integrated circuits laboratory",
+   "subjectCode": "ec8462",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 4,
+   "department": "ece"
+ },
+ {
+   "subjectName": "digital communication",
+   "subjectCode": "ec8501",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "ece"
+ },
+ {
+   "subjectName": "discrete-time signal processing",
+   "subjectCode": "ec8553",
+   "credits": 4,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "ece"
+ },
+ {
+   "subjectName": "computer architecture and organization",
+   "subjectCode": "ec8551",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "ece"
+ },
+ {
+   "subjectName": "communication networks",
+   "subjectCode": "ec8551",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "ece"
+ },
+ {
+   "subjectName": "professional elective 1",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "pe",
+   "semesterNumber": 5,
+   "department": "ece"
+ },
+ {
+   "subjectName": "open elective 1",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "oe",
+   "semesterNumber": 5,
+   "department": "ece"
+ },
+ {
+   "subjectName": "digital signal processing laboratory",
+   "subjectCode": "ec8562",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "ece"
+ },
+ {
+   "subjectName": "communication systems laboratory",
+   "subjectCode": "ec8561",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "ece"
+ },
+ {
+   "subjectName": "communication networks laboratory",
+   "subjectCode": "ec8563",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "ece"
+ },
+ {
+   "subjectName": "microprocessors and  microcontrollers",
+   "subjectCode": "ec8691",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "ece"
+ },
+ {
+   "subjectName": "vlsi design",
+   "subjectCode": "ec8095",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "ece"
+ },
+ {
+   "subjectName": "wireless communication",
+   "subjectCode": "ec8652",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "ece"
+ },
+ {
+   "subjectName": "principles of management",
+   "subjectCode": "mg8591",
+   "credits": 3,
+   "catagory": "hs",
+   "semesterNumber": 6,
+   "department": "ece"
+ },
+ {
+   "subjectName": "transmission lines and rf systems",
+   "subjectCode": "ec8651",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "ece"
+ },
+ {
+   "subjectName": "professional elective 2",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "pe",
+   "semesterNumber": 6,
+   "department": "ece"
+ },
+ {
+   "subjectName": "microprocessors and  microcontrollers laboratory",
+   "subjectCode": "ec8681",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "ece"
+ },
+ {
+   "subjectName": "vlsi design laboratory",
+   "subjectCode": "ec8661",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "ece"
+ },
+ {
+   "subjectName": "technical seminar",
+   "subjectCode": "ec8611",
+   "credits": 1,
+   "catagory": "eec",
+   "semesterNumber": 6,
+   "department": "ece"
+ },
+ {
+   "subjectName": "professional communication",
+   "subjectCode": "hs8581",
+   "credits": 1,
+   "catagory": "eec",
+   "semesterNumber": 6,
+   "department": "ece"
+ },
+ {
+   "subjectName": "antennas and microwave engineering",
+   "subjectCode": "ec8701",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 7,
+   "department": "ece"
+ },
+ {
+   "subjectName": "optical communication",
+   "subjectCode": "ec8751",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 7,
+   "department": "ece"
+ },
+ {
+   "subjectName": "embedded and real time systems",
+   "subjectCode": "ec8791",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 7,
+   "department": "ece"
+ },
+ {
+   "subjectName": "ad hoc and wireless sensor networks",
+   "subjectCode": "ec8702",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 7,
+   "department": "ece"
+ },
+ {
+   "subjectName": "professional elective 3",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "pe",
+   "semesterNumber": 7,
+   "department": "ece"
+ },
+ {
+   "subjectName": "open elective 2",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "oe",
+   "semesterNumber": 7,
+   "department": "ece"
+ },
+ {
+   "subjectName": "embedded laboratory",
+   "subjectCode": "ec8711",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 7,
+   "department": "ece"
+ },
+ {
+   "subjectName": "advanced communication laboratory",
+   "subjectCode": "ec8761",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 7,
+   "department": "ece"
+ },
+ {
+   "subjectName": "professional elective 4",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "pe",
+   "semesterNumber": 8,
+   "department": "ece"
+ },
+ {
+   "subjectName": "professional elective 5",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "pe",
+   "semesterNumber": 8,
+   "department": "ece"
+ },
+ {
+   "subjectName": "project work",
+   "subjectCode": "ec8811",
+   "credits": 10,
+   "catagory": "eec",
+   "semesterNumber": 8,
+   "department": "ece"
  }
 ]
