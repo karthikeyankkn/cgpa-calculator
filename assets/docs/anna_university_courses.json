@@ -493,7 +493,7 @@
    "credits": 4,
    "catagory": "hs",
    "semesterNumber": 1,
-   "department": "eee"
+   "department": "cse"
  },
  {
    "subjectName": "engineering mathematics 1",
@@ -501,7 +501,7 @@
    "credits": 4,
    "catagory": "bs",
    "semesterNumber": 1,
-   "department": "eee"
+   "department": "cse"
  },
  {
    "subjectName": "engineering physics",
@@ -1502,5 +1502,1525 @@
    "catagory": "eec",
    "semesterNumber": 8,
    "department": "ece"
+ },
+ {
+   "subjectName": "communicative english",
+   "subjectCode": "hs8151",
+   "credits": 4,
+   "catagory": "hs",
+   "semesterNumber": 1,
+   "department": "it"
+ },
+ {
+   "subjectName": "engineering mathematics 1",
+   "subjectCode": "ma8151",
+   "credits": 4,
+   "catagory": "bs",
+   "semesterNumber": 1,
+   "department": "it"
+ },
+ {
+   "subjectName": "engineering physics",
+   "subjectCode": "ph8151",
+   "credits": 3,
+   "catagory": "bs",
+   "semesterNumber": 1,
+   "department": "it"
+ },
+ {
+   "subjectName": "engineering chemistry",
+   "subjectCode": "cy8151",
+   "credits": 3,
+   "catagory": "bs",
+   "semesterNumber": 1,
+   "department": "it"
+ },
+ {
+   "subjectName": "problem solving and python programming",
+   "subjectCode": "ge8151",
+   "credits": 3,
+   "catagory": "es",
+   "semesterNumber": 1,
+   "department": "it"
+ },
+ {
+   "subjectName": "engineering graphics",
+   "subjectCode": "ge8152",
+   "credits": 4,
+   "catagory": "es",
+   "semesterNumber": 1,
+   "department": "it"
+ },
+ {
+   "subjectName": "problem solving and python programming laboratory",
+   "subjectCode": "ge8161",
+   "credits": 2,
+   "catagory": "es",
+   "semesterNumber": 1,
+   "department": "it"
+ },
+ {
+   "subjectName": "physics and chemistry laboratory",
+   "subjectCode": "bs8161",
+   "credits": 2,
+   "catagory": "bs",
+   "semesterNumber": 1,
+   "department": "it"
+ },
+ {
+   "subjectName": "technical english",
+   "subjectCode": "hs8251",
+   "credits": 4,
+   "catagory": "hs",
+   "semesterNumber": 2,
+   "department": "it"
+ },
+ {
+   "subjectName": "engineering mathematics 2",
+   "subjectCode": "ma8251",
+   "credits": 4,
+   "catagory": "bs",
+   "semesterNumber": 2,
+   "department": "it"
+ },
+ {
+   "subjectName": "physics for information science",
+   "subjectCode": "ph8252",
+   "credits": 3,
+   "catagory": "bs",
+   "semesterNumber": 2,
+   "department": "it"
+ },
+ {
+   "subjectName": "basic electrical and electronics and measurement engineering",
+   "subjectCode": "be8255",
+   "credits": 3,
+   "catagory": "es",
+   "semesterNumber": 2,
+   "department": "it"
+ },
+ {
+   "subjectName": "information technology essentials",
+   "subjectCode": "it8201",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 2,
+   "department": "it"
+ },
+ {
+   "subjectName": "programming in c",
+   "subjectCode": "cs8251",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 2,
+   "department": "it"
+ },
+ {
+   "subjectName": "engineering practices laboratory",
+   "subjectCode": "ge8261",
+   "credits": 2,
+   "catagory": "es",
+   "semesterNumber": 2,
+   "department": "it"
+ },
+ {
+   "subjectName": "c programming laboratory",
+   "subjectCode": "cs8261",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 2,
+   "department": "it"
+ },
+ {
+   "subjectName": "information technology essentials laboratory",
+   "subjectCode": "it8211",
+   "credits": 1,
+   "catagory": "pc",
+   "semesterNumber": 2,
+   "department": "it"
+ },
+ {
+   "subjectName": "discrete mathematics",
+   "subjectCode": "ma8351",
+   "credits": 4,
+   "catagory": "bs",
+   "semesterNumber": 3,
+   "department": "it"
+ },
+ {
+   "subjectName": "digital principles and system design",
+   "subjectCode": "cs8351",
+   "credits": 4,
+   "catagory": "es",
+   "semesterNumber": 3,
+   "department": "it"
+ },
+ {
+   "subjectName": "data structures",
+   "subjectCode": "cs8391",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 3,
+   "department": "it"
+ },
+ {
+   "subjectName": "object oriented programming",
+   "subjectCode": "cs8392",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 3,
+   "department": "it"
+ },
+ {
+   "subjectName": "analog and digital communication",
+   "subjectCode": "ec8394",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 3,
+   "department": "it"
+ },
+ {
+   "subjectName": "data structures laboratory",
+   "subjectCode": "cs8382",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 3,
+   "department": "it"
+ },
+ {
+   "subjectName": "object oriented programming laboratory",
+   "subjectCode": "cs8383",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 3,
+   "department": "it"
+ },
+ {
+   "subjectName": "digital systems laboratory",
+   "subjectCode": "cs8382",
+   "credits": 2,
+   "catagory": "es",
+   "semesterNumber": 3,
+   "department": "it"
+ },
+ {
+   "subjectName": "interpersonal skills listening & speaking",
+   "subjectCode": "hs8381",
+   "credits": 1,
+   "catagory": "eec",
+   "semesterNumber": 3,
+   "department": "it"
+ },
+ {
+   "subjectName": "probability and statistics",
+   "subjectCode": "ma8391",
+   "credits": 4,
+   "catagory": "bs",
+   "semesterNumber": 4,
+   "department": "it"
+ },
+ {
+   "subjectName": "computer architecture",
+   "subjectCode": "cs8491",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 4,
+   "department": "it"
+ },
+ {
+   "subjectName": "database management systems",
+   "subjectCode": "cs8491",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 4,
+   "department": "it"
+ },
+ {
+   "subjectName": "design and analysis of algorithims",
+   "subjectCode": "cs8451",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 4,
+   "department": "it"
+ },
+ {
+   "subjectName": "operating systems",
+   "subjectCode": "cs8493",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 4,
+   "department": "it"
+ },
+ {
+   "subjectName": "environmental science and engineering",
+   "subjectCode": "ge8291",
+   "credits": 3,
+   "catagory": "hs",
+   "semesterNumber": 4,
+   "department": "it"
+ },
+ {
+   "subjectName": "database management systems laboratory",
+   "subjectCode": "cs8481",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 4,
+   "department": "it"
+ },
+ {
+   "subjectName": "operating systems laboratory",
+   "subjectCode": "cs8461",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 4,
+   "department": "it"
+ },
+ {
+   "subjectName": "advanced reading and writing",
+   "subjectCode": "hs8461",
+   "credits": 1,
+   "catagory": "eec",
+   "semesterNumber": 4,
+   "department": "it"
+ },
+ {
+   "subjectName": "algebra and number theory",
+   "subjectCode": "ma8551",
+   "credits": 4,
+   "catagory": "bs",
+   "semesterNumber": 5,
+   "department": "it"
+ },
+ {
+   "subjectName": "computer networks",
+   "subjectCode": "cs8591",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "it"
+ },
+ {
+   "subjectName": "microprocessors and  microcontrollers",
+   "subjectCode": "ec8691",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "it"
+ },
+ {
+   "subjectName": "web technology",
+   "subjectCode": "it8501",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "it"
+ },
+ {
+   "subjectName": "software engineering",
+   "subjectCode": "cs8494",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "it"
+ },
+ {
+   "subjectName": "open elective 1",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "oe",
+   "semesterNumber": 5,
+   "department": "it"
+ },
+ {
+   "subjectName": "microprocessors and  microcontrollers laboratory",
+   "subjectCode": "ec8681",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "it"
+ },
+ {
+   "subjectName": "networks laboratory",
+   "subjectCode": "cs8581",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "it"
+ },
+ {
+   "subjectName": "web technology laboratory",
+   "subjectCode": "it8511",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "it"
+ },
+ {
+   "subjectName": "computational intellegence",
+   "subjectCode": "it8601",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "it"
+ },
+ {
+   "subjectName": "object oriented analysis and design",
+   "subjectCode": "cs8592",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "it"
+ },
+ {
+   "subjectName": "mobile communication",
+   "subjectCode": "it8602",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "it"
+ },
+ {
+   "subjectName": "big data analytics",
+   "subjectCode": "cs8091",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "it"
+ },
+ {
+   "subjectName": "computer graphics and multimedia",
+   "subjectCode": "cs8092",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "it"
+ },
+ {
+   "subjectName": "professional elective 1",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "pe",
+   "semesterNumber": 6,
+   "department": "it"
+ },
+ {
+   "subjectName": "mobile application development laboratory",
+   "subjectCode": "cs8662",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "it"
+ },
+ {
+   "subjectName": "object oriented analysis and design laboratory",
+   "subjectCode": "cs8582",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "it"
+ },
+ {
+   "subjectName": "mini project",
+   "subjectCode": "it8611",
+   "credits": 1,
+   "catagory": "eec",
+   "semesterNumber": 6,
+   "department": "it"
+ },
+ {
+   "subjectName": "professional communication",
+   "subjectCode": "hs8581",
+   "credits": 1,
+   "catagory": "eec",
+   "semesterNumber": 6,
+   "department": "it"
+ },
+ {
+   "subjectName": "principles of management",
+   "subjectCode": "mg8591",
+   "credits": 3,
+   "catagory": "hs",
+   "semesterNumber": 7,
+   "department": "it"
+ },
+ {
+   "subjectName": "cryptography and network security",
+   "subjectCode": "cs8792",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 7,
+   "department": "it"
+ },
+ {
+   "subjectName": "cloud computing",
+   "subjectCode": "cs8791",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 7,
+   "department": "it"
+ },
+ {
+   "subjectName": "open elective 2",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "oe",
+   "semesterNumber": 7,
+   "department": "it"
+ },
+ {
+   "subjectName": "professional elective 2",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "pe",
+   "semesterNumber": 7,
+   "department": "it"
+ },
+ {
+   "subjectName": "professional elective 3",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "pe",
+   "semesterNumber": 7,
+   "department": "it"
+ },
+ {
+   "subjectName": "foss and cloud computing laboratory",
+   "subjectCode": "it8711",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 7,
+   "department": "it"
+ },
+ {
+   "subjectName": "security laboratory",
+   "subjectCode": "it8761",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 7,
+   "department": "it"
+ },
+ {
+   "subjectName": "professional elective 4",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "pe",
+   "semesterNumber": 8,
+   "department": "it"
+ },
+ {
+   "subjectName": "professional elective 5",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "pe",
+   "semesterNumber": 8,
+   "department": "it"
+ },
+ {
+   "subjectName": "project work",
+   "subjectCode": "it8811",
+   "credits": 10,
+   "catagory": "eec",
+   "semesterNumber": 8,
+   "department": "it"
+ },
+ {
+   "subjectName": "communicative english",
+   "subjectCode": "hs8151",
+   "credits": 4,
+   "catagory": "hs",
+   "semesterNumber": 1,
+   "department": "mech"
+ },
+ {
+   "subjectName": "engineering mathematics 1",
+   "subjectCode": "ma8151",
+   "credits": 4,
+   "catagory": "bs",
+   "semesterNumber": 1,
+   "department": "mech"
+ },
+ {
+   "subjectName": "engineering physics",
+   "subjectCode": "ph8151",
+   "credits": 3,
+   "catagory": "bs",
+   "semesterNumber": 1,
+   "department": "mech"
+ },
+ {
+   "subjectName": "engineering chemistry",
+   "subjectCode": "cy8151",
+   "credits": 3,
+   "catagory": "bs",
+   "semesterNumber": 1,
+   "department": "mech"
+ },
+ {
+   "subjectName": "problem solving and python programming",
+   "subjectCode": "ge8151",
+   "credits": 3,
+   "catagory": "es",
+   "semesterNumber": 1,
+   "department": "mech"
+ },
+ {
+   "subjectName": "engineering graphics",
+   "subjectCode": "ge8152",
+   "credits": 4,
+   "catagory": "es",
+   "semesterNumber": 1,
+   "department": "mech"
+ },
+ {
+   "subjectName": "problem solving and python programming laboratory",
+   "subjectCode": "ge8161",
+   "credits": 2,
+   "catagory": "es",
+   "semesterNumber": 1,
+   "department": "mech"
+ },
+ {
+   "subjectName": "physics and chemistry laboratory",
+   "subjectCode": "bs8161",
+   "credits": 2,
+   "catagory": "bs",
+   "semesterNumber": 1,
+   "department": "mech"
+ },
+ {
+   "subjectName": "technical english",
+   "subjectCode": "hs8251",
+   "credits": 4,
+   "catagory": "hs",
+   "semesterNumber": 2,
+   "department": "mech"
+ },
+ {
+   "subjectName": "engineering mathematics 2",
+   "subjectCode": "ma8251",
+   "credits": 4,
+   "catagory": "bs",
+   "semesterNumber": 2,
+   "department": "mech"
+ },
+ {
+   "subjectName": "materials science",
+   "subjectCode": "ph8251",
+   "credits": 3,
+   "catagory": "bs",
+   "semesterNumber": 2,
+   "department": "mech"
+ },
+ {
+   "subjectName": "basic electrical and electronics and instrumentation engineering",
+   "subjectCode": "be8253",
+   "credits": 3,
+   "catagory": "es",
+   "semesterNumber": 2,
+   "department": "mech"
+ },
+ {
+   "subjectName": "environmental science and engineering",
+   "subjectCode": "ge8291",
+   "credits": 3,
+   "catagory": "hs",
+   "semesterNumber": 2,
+   "department": "mech"
+ },
+ {
+   "subjectName": "engineering mechanics",
+   "subjectCode": "ge8292",
+   "credits": 4,
+   "catagory": "es",
+   "semesterNumber": 2,
+   "department": "mech"
+ },
+ {
+   "subjectName": "engineering practices laboratory",
+   "subjectCode": "ge8261",
+   "credits": 2,
+   "catagory": "es",
+   "semesterNumber": 2,
+   "department": "mech"
+ },
+ {
+   "subjectName": "basic electrical electronics and instrumentation engineering laboratory",
+   "subjectCode": "be8261",
+   "credits": 2,
+   "catagory": "es",
+   "semesterNumber": 2,
+   "department": "mech"
+ },
+ {
+   "subjectName": "transforms and partial differential eauations",
+   "subjectCode": "ma8353",
+   "credits": 4,
+   "catagory": "bs",
+   "semesterNumber": 3,
+   "department": "mech"
+ },
+ {
+   "subjectName": "engineering thermodynamics",
+   "subjectCode": "me8391",
+   "credits": 4,
+   "catagory": "pc",
+   "semesterNumber": 3,
+   "department": "mech"
+ },
+ {
+   "subjectName": "fluid mechanics and machinery",
+   "subjectCode": "ce8394",
+   "credits": 4,
+   "catagory": "es",
+   "semesterNumber": 3,
+   "department": "mech"
+ },
+ {
+   "subjectName": "manufacturing technology 1",
+   "subjectCode": "me8351",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 3,
+   "department": "mech"
+ },
+ {
+   "subjectName": "electrical drives and controls",
+   "subjectCode": "ee8353",
+   "credits": 3,
+   "catagory": "es",
+   "semesterNumber": 3,
+   "department": "mech"
+ },
+ {
+   "subjectName": "manufacturing technology laboratory 1",
+   "subjectCode": "me8361",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 3,
+   "department": "mech"
+ },
+ {
+   "subjectName": "computer aided machine drawing",
+   "subjectCode": "me8381",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 3,
+   "department": "mech"
+ },
+ {
+   "subjectName": "electrical engineering laboratory",
+   "subjectCode": "ee8361",
+   "credits": 2,
+   "catagory": "es",
+   "semesterNumber": 3,
+   "department": "mech"
+ },
+ {
+   "subjectName": "interpersonal skills listening & speaking",
+   "subjectCode": "hs8381",
+   "credits": 1,
+   "catagory": "hs",
+   "semesterNumber": 3,
+   "department": "mech"
+ },
+ {
+   "subjectName": "statistics and numerical methods",
+   "subjectCode": "ma8452",
+   "credits": 4,
+   "catagory": "bs",
+   "semesterNumber": 4,
+   "department": "mech"
+ },
+ {
+   "subjectName": "kinematics of machinery",
+   "subjectCode": "me8492",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 4,
+   "department": "mech"
+ },
+ {
+   "subjectName": "manufacturing technology 2",
+   "subjectCode": "me8462",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 4,
+   "department": "mech"
+ },
+ {
+   "subjectName": "engineering metallurgy",
+   "subjectCode": "me8491",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 4,
+   "department": "mech"
+ },
+ {
+   "subjectName": "strength of materials for mechanical engineers",
+   "subjectCode": "ce8395",
+   "credits": 3,
+   "catagory": "es",
+   "semesterNumber": 4,
+   "department": "mech"
+ },
+ {
+   "subjectName": "thermal engineering 1",
+   "subjectCode": "me8493",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 4,
+   "department": "mech"
+ },
+ {
+   "subjectName": "manufacturing technology laboratory 2",
+   "subjectCode": "me8462",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 4,
+   "department": "mech"
+ },
+ {
+   "subjectName": "strength of materials and fluid mechanics and machinery laboratory",
+   "subjectCode": "ce8381",
+   "credits": 2,
+   "catagory": "es",
+   "semesterNumber": 4,
+   "department": "mech"
+ },
+ {
+   "subjectName": "advanced reading and writing",
+   "subjectCode": "hs8461",
+   "credits": 1,
+   "catagory": "eec",
+   "semesterNumber": 4,
+   "department": "mech"
+ },
+ {
+   "subjectName": "thermal engineering 2",
+   "subjectCode": "me8595",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "mech"
+ },
+ {
+   "subjectName": "design of machine elements",
+   "subjectCode": "me8593",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "mech"
+ },
+ {
+   "subjectName": "metrology and measurements",
+   "subjectCode": "me8501",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "mech"
+ },
+ {
+   "subjectName": "dynamics of machines ",
+   "subjectCode": "me8594",
+   "credits": 4,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "mech"
+ },
+ {
+   "subjectName": "open elective 1",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "oe",
+   "semesterNumber": 5,
+   "department": "mech"
+ },
+ {
+   "subjectName": "kinematics and dynamics laboratory",
+   "subjectCode": "me8511",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "mech"
+ },
+ {
+   "subjectName": "thermal engineering laboratory",
+   "subjectCode": "me8512",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "mech"
+ },
+ {
+   "subjectName": "metrology and measurements laboratory",
+   "subjectCode": "me8513",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "mech"
+ },
+ {
+   "subjectName": "design of transmission systems",
+   "subjectCode": "me8651",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "mech"
+ },
+ {
+   "subjectName": "computer aided design and manufacturing",
+   "subjectCode": "me8691",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "mech"
+ },
+ {
+   "subjectName": "heat and mass transfer",
+   "subjectCode": "me8693",
+   "credits": 4,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "mech"
+ },
+ {
+   "subjectName": "finite elements analysis",
+   "subjectCode": "me8692",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "mech"
+ },
+ {
+   "subjectName": "hydraulics and pneumatics",
+   "subjectCode": "me8692",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "mech"
+ },
+ {
+   "subjectName": "professional elective 1",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "pe",
+   "semesterNumber": 6,
+   "department": "mech"
+ },
+ {
+   "subjectName": "cad cam laboratory",
+   "subjectCode": "me8681",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "mech"
+ },
+ {
+   "subjectName": "design and fabrication project",
+   "subjectCode": "me8682",
+   "credits": 2,
+   "catagory": "eec",
+   "semesterNumber": 6,
+   "department": "mech"
+ },
+ {
+   "subjectName": "professional communication",
+   "subjectCode": "hs8581",
+   "credits": 1,
+   "catagory": "eec",
+   "semesterNumber": 6,
+   "department": "mech"
+ },
+ {
+   "subjectName": "power plant engineering",
+   "subjectCode": "me8792",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 7,
+   "department": "mech"
+ },
+ {
+   "subjectName": "process planning and cost estimation",
+   "subjectCode": "me8793",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 7,
+   "department": "mech"
+ },
+ {
+   "subjectName": "mechatronics",
+   "subjectCode": "me8791",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 7,
+   "department": "mech"
+ },
+ {
+   "subjectName": "open elective 2",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "oe",
+   "semesterNumber": 7,
+   "department": "mech"
+ },
+ {
+   "subjectName": "professional elective 2",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "pe",
+   "semesterNumber": 7,
+   "department": "mech"
+ },
+ {
+   "subjectName": "professional elective 3",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "pe",
+   "semesterNumber": 7,
+   "department": "mech"
+ },
+ {
+   "subjectName": "simulation and analysis laboratory",
+   "subjectCode": "me8711",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 7,
+   "department": "mech"
+ },
+ {
+   "subjectName": "mechatronics laboratory",
+   "subjectCode": "me8781",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 7,
+   "department": "mech"
+ },
+ {
+   "subjectName": "technical seminar",
+   "subjectCode": "me8712",
+   "credits": 1,
+   "catagory": "eec",
+   "semesterNumber": 7,
+   "department": "mech"
+ },
+ {
+   "subjectName": "principles of management",
+   "subjectCode": "mg8591",
+   "credits": 3,
+   "catagory": "hs",
+   "semesterNumber": 8,
+   "department": "mech"
+ },
+ {
+   "subjectName": "professional elective 4",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "pe",
+   "semesterNumber": 8,
+   "department": "mech"
+ },
+ {
+   "subjectName": "project work",
+   "subjectCode": "me8811",
+   "credits": 10,
+   "catagory": "eec",
+   "semesterNumber": 8,
+   "department": "mech"
+ },
+ {
+   "subjectName": "communicative english",
+   "subjectCode": "hs8151",
+   "credits": 4,
+   "catagory": "hs",
+   "semesterNumber": 1,
+   "department": "civil"
+ },
+ {
+   "subjectName": "engineering mathematics 1",
+   "subjectCode": "ma8151",
+   "credits": 4,
+   "catagory": "bs",
+   "semesterNumber": 1,
+   "department": "civil"
+ },
+ {
+   "subjectName": "engineering physics",
+   "subjectCode": "ph8151",
+   "credits": 3,
+   "catagory": "bs",
+   "semesterNumber": 1,
+   "department": "civil"
+ },
+ {
+   "subjectName": "engineering chemistry",
+   "subjectCode": "cy8151",
+   "credits": 3,
+   "catagory": "bs",
+   "semesterNumber": 1,
+   "department": "civil"
+ },
+ {
+   "subjectName": "problem solving and python programming",
+   "subjectCode": "ge8151",
+   "credits": 3,
+   "catagory": "es",
+   "semesterNumber": 1,
+   "department": "civil"
+ },
+ {
+   "subjectName": "engineering graphics",
+   "subjectCode": "ge8152",
+   "credits": 4,
+   "catagory": "es",
+   "semesterNumber": 1,
+   "department": "civil"
+ },
+ {
+   "subjectName": "problem solving and python programming laboratory",
+   "subjectCode": "ge8161",
+   "credits": 2,
+   "catagory": "es",
+   "semesterNumber": 1,
+   "department": "civil"
+ },
+ {
+   "subjectName": "physics and chemistry laboratory",
+   "subjectCode": "bs8161",
+   "credits": 2,
+   "catagory": "bs",
+   "semesterNumber": 1,
+   "department": "civil"
+ },
+ {
+   "subjectName": "technical english",
+   "subjectCode": "hs8251",
+   "credits": 4,
+   "catagory": "hs",
+   "semesterNumber": 2,
+   "department": "civil"
+ },
+ {
+   "subjectName": "engineering mathematics 2",
+   "subjectCode": "ma8251",
+   "credits": 4,
+   "catagory": "bs",
+   "semesterNumber": 2,
+   "department": "civil"
+ },
+ {
+   "subjectName": "physics for civil engineering",
+   "subjectCode": "ph8201",
+   "credits": 3,
+   "catagory": "bs",
+   "semesterNumber": 2,
+   "department": "civil"
+ },
+ {
+   "subjectName": "basic electrical and electronics engineering",
+   "subjectCode": "be8251",
+   "credits": 3,
+   "catagory": "es",
+   "semesterNumber": 2,
+   "department": "civil"
+ },
+ {
+   "subjectName": "environmental science and engineering",
+   "subjectCode": "ge8291",
+   "credits": 3,
+   "catagory": "hs",
+   "semesterNumber": 2,
+   "department": "civil"
+ },
+ {
+   "subjectName": "engineering mechanics",
+   "subjectCode": "ge8292",
+   "credits": 4,
+   "catagory": "es",
+   "semesterNumber": 2,
+   "department": "civil"
+ },
+ {
+   "subjectName": "engineering practices laboratory",
+   "subjectCode": "ge8261",
+   "credits": 2,
+   "catagory": "es",
+   "semesterNumber": 2,
+   "department": "civil"
+ },
+ {
+   "subjectName": "computer aided building drawing",
+   "subjectCode": "ce8211",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 2,
+   "department": "civil"
+ },
+ {
+   "subjectName": "transforms and partial differential eauations",
+   "subjectCode": "ma8353",
+   "credits": 4,
+   "catagory": "bs",
+   "semesterNumber": 3,
+   "department": "civil"
+ },
+ {
+   "subjectName": "strength of materials 1",
+   "subjectCode": "ce8301",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 3,
+   "department": "civil"
+ },
+ {
+   "subjectName": "fluid mechanics ",
+   "subjectCode": "ce8302",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 3,
+   "department": "civil"
+ },
+ {
+   "subjectName": "surveying",
+   "subjectCode": "ce8302",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 3,
+   "department": "civil"
+ },
+ {
+   "subjectName": "construction materials",
+   "subjectCode": "ce8391",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 3,
+   "department": "civil"
+ },
+ {
+   "subjectName": "engineering geology",
+   "subjectCode": "ce8392",
+   "credits": 3,
+   "catagory": "es",
+   "semesterNumber": 3,
+   "department": "civil"
+ },
+ {
+   "subjectName": "construction materials laboratory",
+   "subjectCode": "ce8311",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 3,
+   "department": "civil"
+ },
+ {
+   "subjectName": "surveying laboratory",
+   "subjectCode": "ce8361",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 3,
+   "department": "civil"
+ },
+ {
+   "subjectName": "interpersonal skills listening and speaking",
+   "subjectCode": "hs8381",
+   "credits": 1,
+   "catagory": "eec",
+   "semesterNumber": 3,
+   "department": "civil"
+ },
+ {
+   "subjectName": "numerical methods",
+   "subjectCode": "ma8491",
+   "credits": 4,
+   "catagory": "bs",
+   "semesterNumber": 4,
+   "department": "civil"
+ },
+ {
+   "subjectName": "construction techniques and practices",
+   "subjectCode": "ce8401",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 4,
+   "department": "civil"
+ },
+ {
+   "subjectName": "strength of materials 2",
+   "subjectCode": "ce8402",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 4,
+   "department": "civil"
+ },
+ {
+   "subjectName": "applied hydraulic engineering",
+   "subjectCode": "ce8403",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 4,
+   "department": "civil"
+ },
+ {
+   "subjectName": "concrete technology",
+   "subjectCode": "ce8404",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 4,
+   "department": "civil"
+ },
+ {
+   "subjectName": "soil mechanics",
+   "subjectCode": "ce8491",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 4,
+   "department": "civil"
+ },
+ {
+   "subjectName": "strength of materials laboratory",
+   "subjectCode": "ce8481",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 4,
+   "department": "civil"
+ },
+ {
+   "subjectName": "hydraulics engineering laboratory",
+   "subjectCode": "ce8461",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 4,
+   "department": "civil"
+ },
+ {
+   "subjectName": "advanced reading and writing",
+   "subjectCode": "hs8461",
+   "credits": 1,
+   "catagory": "eec",
+   "semesterNumber": 4,
+   "department": "civil"
+ },
+ {
+   "subjectName": "design of reinforced cement concrete elements",
+   "subjectCode": "ce8501",
+   "credits": 4,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "civil"
+ },
+ {
+   "subjectName": "structural analysis 1",
+   "subjectCode": "ce8502",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "civil"
+ },
+ {
+   "subjectName": "water supply engineering",
+   "subjectCode": "en8491",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "civil"
+ },
+ {
+   "subjectName": "foundation engineering",
+   "subjectCode": "ce8591",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "civil"
+ },
+ {
+   "subjectName": "professional elective 1",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "pe",
+   "semesterNumber": 5,
+   "department": "civil"
+ },
+ {
+   "subjectName": "open elective 1",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "oe",
+   "semesterNumber": 5,
+   "department": "civil"
+ },
+ {
+   "subjectName": "soil mechanics laboratory",
+   "subjectCode": "ce8511",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "civil"
+ },
+ {
+   "subjectName": "water and waste water analysis laboratory",
+   "subjectCode": "ce8512",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 5,
+   "department": "civil"
+ },
+ {
+   "subjectName": "survey camp",
+   "subjectCode": "ce8513",
+   "credits": 2,
+   "catagory": "eec",
+   "semesterNumber": 5,
+   "department": "civil"
+ },
+ {
+   "subjectName": "design of steel structural elements",
+   "subjectCode": "ce8601",
+   "credits": 4,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "civil"
+ },
+ {
+   "subjectName": "structural analysis 2",
+   "subjectCode": "ce8602",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "civil"
+ },
+ {
+   "subjectName": "irrigation engineering",
+   "subjectCode": "ce8603",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "civil"
+ },
+ {
+   "subjectName": "highway engineering",
+   "subjectCode": "ce8604",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "civil"
+ },
+ {
+   "subjectName": "wastewater engineering",
+   "subjectCode": "en8592",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "civil"
+ },
+ {
+   "subjectName": "professional elective 2",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "pe",
+   "semesterNumber": 6,
+   "department": "civil"
+ },
+ {
+   "subjectName": "highway engineering laboratory",
+   "subjectCode": "ce8611",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "civil"
+ },
+ {
+   "subjectName": "irrigation and environmental engineering drawing",
+   "subjectCode": "ce8612",
+   "credits": 2,
+   "catagory": "pc",
+   "semesterNumber": 6,
+   "department": "civil"
+ },
+ {
+   "subjectName": "professional communication",
+   "subjectCode": "hs8581",
+   "credits": 1,
+   "catagory": "eec",
+   "semesterNumber": 6,
+   "department": "civil"
+ },
+ {
+   "subjectName": "estimation costing and valuation engineering",
+   "subjectCode": "ce8701",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 7,
+   "department": "civil"
+ },
+ {
+   "subjectName": "railways airports docks and harbour engineering",
+   "subjectCode": "ce8702",
+   "credits": 3,
+   "catagory": "pc",
+   "semesterNumber": 7,
+   "department": "civil"
+ },
+ {
+   "subjectName": "structural design and drawing",
+   "subjectCode": "ce8703",
+   "credits": 4,
+   "catagory": "pc",
+   "semesterNumber": 7,
+   "department": "civil"
+ },
+ {
+   "subjectName": "professional elective 3",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "pe",
+   "semesterNumber": 7,
+   "department": "civil"
+ },
+ {
+   "subjectName": "open elective 2",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "oe",
+   "semesterNumber": 7,
+   "department": "civil"
+ },
+ {
+   "subjectName": "creative and innovative project",
+   "subjectCode": "ce8711",
+   "credits": 2,
+   "catagory": "eec",
+   "semesterNumber": 7,
+   "department": "civil"
+ },
+ {
+   "subjectName": "industrial training",
+   "subjectCode": "ce8712",
+   "credits": 2,
+   "catagory": "eec",
+   "semesterNumber": 7,
+   "department": "civil"
+ },
+ {
+   "subjectName": "professional elective 4",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "pe",
+   "semesterNumber": 8,
+   "department": "civil"
+ },
+ {
+   "subjectName": "professional elective 5",
+   "subjectCode": "",
+   "credits": 3,
+   "catagory": "pe",
+   "semesterNumber": 8,
+   "department": "civil"
+ },
+ {
+   "subjectName": "project work",
+   "subjectCode": "ce8811",
+   "credits": 10,
+   "catagory": "eec",
+   "semesterNumber": 8,
+   "department": "civil"
  }
 ]
