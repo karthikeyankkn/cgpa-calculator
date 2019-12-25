@@ -20,11 +20,11 @@ $(document).ready(function(){
 			    		gpa_selected_department_data.push(cgpa_main_data[i]);
 			    	}
 			    }
-			    debugger
+			    //debugger
 	    	});
 	    	//semester change
 	    	$('#gpa_semester').on('change', function (e) {
-	    		debugger
+	    		//debugger
 	    		$("#category").hide();
 	    		$("#evaluation").fadeIn();
 			    gpa_selected_semester = this.value;
@@ -36,7 +36,7 @@ $(document).ready(function(){
 			    }
 
 			    for(i = 0; i < gpa_evaluation_data.length; i++){
-			    	$("#gpa_container").append('<div class="my-3 options-container"><label class="col-12 text-light text-capitalize mb-3">'+gpa_evaluation_data[i].subjectName +'-'+gpa_evaluation_data[i].department +'-'+gpa_evaluation_data[i].semesterNumber+ '</label><div class="col-12 btn-group btn-group-toggle btn-group-sm" data-toggle="buttons"> <label class="btn btn-outline-success btn-toggle active"> <input type="radio" name="subject'+[i]+'" value="'+10*gpa_evaluation_data[i].credits+'" autocomplete="off" checked> <b>O</b> </label> <label class="btn btn-outline-success btn-toggle"> <input type="radio" name="subject'+[i]+'" value="'+9*gpa_evaluation_data[i].credits+'" autocomplete="off"> <b>A+</b> </label> <label class="btn btn-outline-success btn-toggle"> <input type="radio" name="subject'+[i]+'" value="'+8*gpa_evaluation_data[i].credits+'" autocomplete="off"> <b>A</b> </label> <label class="btn btn-outline-success btn-toggle"> <input type="radio" name="subject'+[i]+'" value="'+7*gpa_evaluation_data[i].credits+'" autocomplete="off"> <b>B+</b> </label> <label class="btn btn-outline-success btn-toggle"> <input type="radio" name="subject'+[i]+'" value="'+9*gpa_evaluation_data[i].credits+'" autocomplete="off"> <b>B</b> </label> <label class="btn btn-outline-danger btn-toggle"> <input type="radio" name="subject'+[i]+'" value="'+0*gpa_evaluation_data[i].credits+'" autocomplete="off"> <b>U</b> </label> <label class="btn btn-outline-danger btn-toggle"> <input type="radio" name="subject'+[i]+'" value="'+0*gpa_evaluation_data[i].credits+'" autocomplete="off"> <b>AB</b> </label></div></div>')
+			    	$("#gpa_container").append('<div class="my-3 options-container"><label class="col-12 text-light text-capitalize mb-3">'+gpa_evaluation_data[i].subjectName +'</label><div class="col-12 btn-group btn-group-toggle btn-group-sm" data-toggle="buttons"> <label class="btn btn-outline-success btn-toggle active"> <input type="radio" name="subject'+[i]+'" value="'+10*gpa_evaluation_data[i].credits+'" autocomplete="off" checked> <b>O</b> </label> <label class="btn btn-outline-success btn-toggle"> <input type="radio" name="subject'+[i]+'" value="'+9*gpa_evaluation_data[i].credits+'" autocomplete="off"> <b>A+</b> </label> <label class="btn btn-outline-success btn-toggle"> <input type="radio" name="subject'+[i]+'" value="'+8*gpa_evaluation_data[i].credits+'" autocomplete="off"> <b>A</b> </label> <label class="btn btn-outline-success btn-toggle"> <input type="radio" name="subject'+[i]+'" value="'+7*gpa_evaluation_data[i].credits+'" autocomplete="off"> <b>B+</b> </label> <label class="btn btn-outline-success btn-toggle"> <input type="radio" name="subject'+[i]+'" value="'+9*gpa_evaluation_data[i].credits+'" autocomplete="off"> <b>B</b> </label> <label class="btn btn-outline-danger btn-toggle"> <input type="radio" name="subject'+[i]+'" value="'+0*gpa_evaluation_data[i].credits+'" autocomplete="off"> <b>U</b> </label> <label class="btn btn-outline-danger btn-toggle"> <input type="radio" name="subject'+[i]+'" value="'+0*gpa_evaluation_data[i].credits+'" autocomplete="off"> <b>AB</b> </label></div></div>')
 			    }
 			    
 			});
@@ -59,7 +59,7 @@ $(document).ready(function(){
 		    	location.reload();
 		    });
 		    $(".go_to_category").click(function(){
-		    	debugger
+		    	//debugger
 		    	gpa_evaluation_data = [];
 		    	$(".gpa_container").empty();
 		    	$("#evaluation, #result, #home").hide();
